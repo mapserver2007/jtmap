@@ -1,0 +1,1 @@
+<jsp:useBean id="jtmapi_json" type="java.lang.String" scope="request" /><%= jtmapi_json %>
